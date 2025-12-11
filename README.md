@@ -1,3 +1,11 @@
+
+<div align="left">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Roshan21424&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23f9ffa8%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%23ffee80%22%2C%22streakColor%22%3A%22%23ff61d5%22%7D)
+
+</div>
+
+
 ## ⭐ About Me:
 
 I'm a curious developer who loves understanding how software, cloud platforms, and AI models really work under the hood.  
@@ -7,12 +15,7 @@ I enjoy building things, breaking them, and learning from every part of the proc
 - 🤖 *AI & LLMs* — tokenization, embeddings, attention mechanisms  
 - ☁️ *Cloud Computing* — AWS, Azure and DevOps  
 - 🧠 *Core Computer Science Concepts* — Operating Systems, Database Systems and Internet
-- 
-<div align="center">
-
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Roshan21424&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23f9ffa8%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%23ffee80%22%2C%22streakColor%22%3A%22%23ff61d5%22%7D)
-
-</div>
+  
 
 ## ✨ Currently Learning:
 <p align="left">
