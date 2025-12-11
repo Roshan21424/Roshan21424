@@ -29,15 +29,6 @@ Here’s a quick snapshot of my coding activity and contributions:
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,css,react,nodejs,aws,azure,firebase,cloudflare,dotnet,spring,git,github,githubactions" />
 </p>
 
-
-## 📌 My Socials:
-<p align="left">
-  <a href="https://linkedin.com/in/roshan-raj-21424e"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/RoshanR18592383"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:roshanraj21424@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
-
-
 ## 🚀 Projects:
 
 - ***[nanogpt](https://github.com/Roshan21424/nanogpt):*** A lightweight GPT-style language model implementation with tokenization, training, and generation.
