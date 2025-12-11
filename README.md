@@ -7,10 +7,12 @@ I enjoy building things, breaking them, and learning from every part of the proc
 - 🤖 *AI & LLMs* — tokenization, embeddings, attention mechanisms  
 - ☁️ *Cloud Computing* — AWS, Azure and DevOps  
 - 🧠 *Core Computer Science Concepts* — Operating Systems, Database Systems and Internet
+- 
+<div align="center">
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0ac2ecab9eb3173c1554c9ff23b0cd4c8ffdc6df47aa7d9f10633b00de4590cf/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d526f7368616e3231343234267468656d653d726f73655f70696e6526686964655f626f726465723d66616c7365" />
-</p>
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Roshan21424&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23f9ffa8%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%23ffee80%22%2C%22streakColor%22%3A%22%23ff61d5%22%7D)
+
+</div>
 
 ## ✨ Currently Learning:
 <p align="left">
